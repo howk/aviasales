@@ -2,8 +2,6 @@
 
 [Описание задания](https://github.com/KosyanMedia/test-tasks/tree/master/aviasales_frontend)
 
-[Посмотреть вживую](https://prj.maxkarpov.ru/aviasales/)
-
 ## Сборка
 
 Проект создан на основе [create-react-app](https://create-react-app.dev/). 
